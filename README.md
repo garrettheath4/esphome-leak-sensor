@@ -41,7 +41,7 @@ You will need the following to build each sensor device:
 
 ### Assembly
 
-The following diagrams were generated from the [`Leak Sensor Device.fzz`](Leak Sensor Device.fzz) file in [Fritzing](https://fritzing.org/).
+The following diagrams were generated from the [`Leak Sensor Device.fzz`](Leak%20Sensor%20Device.fzz) file in [Fritzing](https://fritzing.org/).
 
 #### Schematic
 
@@ -165,7 +165,7 @@ I used a circuit simulator web app to create this simplified version of the leak
 * The 33M Ohm resistors represent the high-impedance input pins on the microcontroller
 * The two switches represent two separate dual-strip leak sensors (e.g. for detecting leaks in two separate areas or along two distinct walls)
 
-You can find the live simulation of this circuit by [clicking here](https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKACcRs8AWTyXrgIQooyeCzAYRgvgJ4hMIquWydRVGEgBqAewA2AFwCGAczrtO2QiG5xL17tzyjsueHBYn7Np9+6FeKhQWAHdvK2dXBztgr25sEUdneMSA0WCOFJs7LKSXN3dQmwTsqiyIhRYAE3DCSPkKkSq6ADMjAFdDauLpOs4GvqbWjq6AZwUpTj6oqecqCAM2dvNx8r7uYmsK+ZBF5c8JxN9FGzSNA42HX0vTwKgimWxhfoE+yAsT2yDJvPnxTM2pRsgN+YneYROjR+dnBwK26xBMJYQA). If the link doesn't work you can also try [going here instead](https://falstad.com/circuit/circuitjs.html) and click _File > Open File..._ to import the [`Dual GPIO Resistive Buttons.circuitjs.txt`](Dual GPIO Resistive Buttons.circuitjs.txt) file from this project.
+You can find the live simulation of this circuit by [clicking here](https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKACcRs8AWTyXrgIQooyeCzAYRgvgJ4hMIquWydRVGEgBqAewA2AFwCGAczrtO2QiG5xL17tzyjsueHBYn7Np9+6FeKhQWAHdvK2dXBztgr25sEUdneMSA0WCOFJs7LKSXN3dQmwTsqiyIhRYAE3DCSPkKkSq6ADMjAFdDauLpOs4GvqbWjq6AZwUpTj6oqecqCAM2dvNx8r7uYmsK+ZBF5c8JxN9FGzSNA42HX0vTwKgimWxhfoE+yAsT2yDJvPnxTM2pRsgN+YneYROjR+dnBwK26xBMJYQA). If the link doesn't work you can also try [going here instead](https://falstad.com/circuit/circuitjs.html) and click _File > Open File..._ to import the [`Dual GPIO Resistive Buttons.circuitjs.txt`](Dual%20GPIO%20Resistive%20Buttons.circuitjs.txt) file from this project.
 
 
 ## Future Work
