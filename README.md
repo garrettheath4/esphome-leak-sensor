@@ -170,4 +170,7 @@ You can find the live simulation of this circuit by [clicking here](https://fals
 
 ## Future Work
 
+* Add surface-mount JST 2-pin connectors to PCB so leak sensor wires can be easily connected and disconnected from backpack board
+    * This might require moving the perfboard/PCB from behind the Feather to in front of the feather to have enough room for the JST connectors
+    * Alternatively, pig-tail connectors should work with the existing design since they could plug direclty into the pin headers poking through the Feather board
 * Add a DC buzzer to the schematics and explain how to use it with ESPHome
