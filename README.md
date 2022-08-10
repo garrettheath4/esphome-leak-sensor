@@ -45,11 +45,11 @@ The following diagrams were generated from the [`Leak Sensor Device.fzz`](Leak S
 
 #### Schematic
 
-![electronic circuit schematic diagram](Leak Sensor Device_schem.png?raw=true "Leak Sensor Device circuit schematic")
+![electronic circuit schematic diagram](Leak%20Sensor%20Device_schem.png?raw=true "Leak Sensor Device circuit schematic")
 
 #### Breadboard
 
-![breadboard diagram](Leak Sensor Device_bb.png?raw=true "Leak Sensor Device breadboard diagram")
+![breadboard diagram](Leak%20Sensor%20Device_bb.png?raw=true "Leak Sensor Device breadboard diagram")
 
 
 ## Configuration
@@ -158,7 +158,7 @@ In the ESPHome tab (in your Home Assistant app):
 
 I used a circuit simulator web app to create this simplified version of the leak sensors circuit to make sure the resistor values and diodes I used allowed allowed enough voltage to pass through each sensor when tripped.
 
-![simplified sensor circuit diagram](Dual GPIO Resistive Buttons.png?raw=true "Dual GPIO Resistive Buttons simulation screenshot")
+![simplified sensor circuit diagram](Dual%20GPIO%20Resistive%20Buttons.png?raw=true "Dual GPIO Resistive Buttons simulation screenshot")
 
 * The 10k Ohm resistor is the single pull-up resistor
 * The 1k Ohm resistors represent the estimated resistance through two parallel 5-feet-long strips of conductive fabric tape
